@@ -1,4 +1,4 @@
-# DAta Structures in Go Language
+# Data Structures in Go Language
 Data Structures in Go to PhD discipline in Federal University of Ceará (UFC)
 
 ## Using VSCode
