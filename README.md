@@ -3,9 +3,9 @@ Data Structures in Go to PhD discipline in Federal University of Ceará (UFC)
 
 ## Using VSCode
 
-a) Install Go Extention (Go for Visual Studio Code)
-b)  Use F1 e write "Go:Install/Update Tools". Select all tools
-c) Create a task.json (Terminal -> Configure Tasks...)
+1. Install Go Extention (Go for Visual Studio Code)
+2.  Use F1 e write "Go:Install/Update Tools". Select all tools
+3. Create a task.json (Terminal -> Configure Tasks...)
 ``` json
 
 {
@@ -26,7 +26,7 @@ c) Create a task.json (Terminal -> Configure Tasks...)
     ]
 }
 ```
-d) Create a launch.json (Run -> Add Configuration)
+4. Create a launch.json (Run -> Add Configuration)
 ``` json
 {
     // Use IntelliSense to learn about possible attributes.
