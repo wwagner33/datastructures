@@ -32,18 +32,18 @@ d) Create a launch.json (Run -> Add Configuration)
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    
+
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Connect to server",
+            "name": "Launch file",
             "type": "go",
-            "request": "attach",
-            "mode": "remote",
-            "remotePath": "${workspaceFolder}",
-            "port": 2345,
-            "host": "127.0.0.1"
-        }
+            "request": "launch",
+            "mode": "debug",
+            "program": "${file}"
+        },
+        
+
     ]
 }
 ```
