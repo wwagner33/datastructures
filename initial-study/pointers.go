@@ -1,19 +1,19 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
+// func main() {
 
-	var p *int8 = nil
+// 	var p *int8 = nil
 
-	fmt.Println("Content of p: ", p)
+// 	fmt.Println("Content of p: ", p)
 
-	var val int8 = 32
+// 	var val int8 = 32
 
-	p = &val
+// 	p = &val
 
-	fmt.Println("Address of val: ", &val)
-	fmt.Println("Value of val: ", val)
-	fmt.Println("Content of p: ", p)
-	fmt.Println("Value points by p:", *p)
-}
+// 	fmt.Println("Address of val: ", &val)
+// 	fmt.Println("Value of val: ", val)
+// 	fmt.Println("Content of p: ", p)
+// 	fmt.Println("Value points by p:", *p)
+// }
