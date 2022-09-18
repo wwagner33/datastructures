@@ -1,5 +1,5 @@
 # Data Structures in Go Language
-Data Structures in Go to PhD discipline in Federal University of Ceará (UFC)
+Data Structures in Go to PhD discipline in Federal University of Ceará (UFC) (version 1.19)
 ## Author
 Wellington Wagner F. Sarmento
 
